@@ -8,8 +8,9 @@ body {
     align-items: center;
 }
 #box {
-    text-align: center;
+    color: blue;
+    background: green;
     width: 200px;
     height: 200px;
-    background: yellow;
+    text-align: center;
 }
